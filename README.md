@@ -1,6 +1,6 @@
 # Data_Structures_and_Algorithms
 
-Repository contains projects and code from Coursera specialization Data Structures and Algorithms.
+Repository contains projects and code from Coursera specialization Data Structures and Algorithms. Planned 2022
 
 Topics covered included:
   1. Algorithmic Toolbox
